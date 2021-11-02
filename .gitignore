@@ -1,0 +1,13 @@
+
+*.log
+eclipse-workspace/.metadata/.lock
+eclipse-workspace/.metadata/.mylyn/.taskListIndex/segments_1
+eclipse-workspace/.metadata/.mylyn/.taskListIndex/write.lock
+eclipse-workspace/27juliy/.classpath
+*.prefs
+eclipse-workspace/27juliy/.project
+eclipse-workspace/A Under Standind java/.classpath
+eclipse-workspace/A Under Standind java/.project
+*.class
+*.classpath
+*.project
